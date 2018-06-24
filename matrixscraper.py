@@ -10,7 +10,7 @@ import csv
 import re
 import time
 
-
+# function for getting text of any element
 def get_element_text(element=''):
     if element is None:
         return "None"
