@@ -1,0 +1,9 @@
+install python3.65
+
+-cmd command
+pip install beautifulsoup
+pip install html5lib
+pip install selenium
+
+download Chrome webdriver and move it to system PATH
+download PantomJS and move to it to system PATH
